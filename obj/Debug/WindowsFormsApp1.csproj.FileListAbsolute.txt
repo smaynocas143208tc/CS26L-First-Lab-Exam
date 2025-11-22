@@ -1,0 +1,11 @@
+C:\Visual Studio Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Visual Studio Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Visual Studio Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Visual Studio Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Visual Studio Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Visual Studio Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Visual Studio Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Visual Studio Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Visual Studio Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
